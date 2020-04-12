@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ServicesGlanceComponent } from './services-glance.component';
+import { InstaSliderComponent } from './insta-slider.component';
 
-describe('ServicesGlanceComponent', () => {
-  let component: ServicesGlanceComponent;
-  let fixture: ComponentFixture<ServicesGlanceComponent>;
+describe('InstaSliderComponent', () => {
+  let component: InstaSliderComponent;
+  let fixture: ComponentFixture<InstaSliderComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ ServicesGlanceComponent ]
+      declarations: [ InstaSliderComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(ServicesGlanceComponent);
+    fixture = TestBed.createComponent(InstaSliderComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

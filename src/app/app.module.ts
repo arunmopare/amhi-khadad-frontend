@@ -19,10 +19,9 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { AboutUsComponent } from './about-us/about-us.component';
-import { ContactUsComponent } from './contact-us/contact-us.component';
-import { ServicesGlanceComponent } from './home/services-glance/services-glance.component';
-import { AboutUsGlanceComponent } from './home/about-us-glance/about-us-glance.component';
-import { MembersComponent } from './members/members.component';
+import { ContactUsComponent } from './contact-us/contact-us.component';import { MembersComponent } from './members/members.component';
+import { InstaSliderComponent } from './home/insta-slider/insta-slider.component';
+import { AboutUsCardsComponent } from './about-us/about-us-cards/about-us-cards.component';
 
 @NgModule({
   declarations: [
@@ -32,9 +31,9 @@ import { MembersComponent } from './members/members.component';
     HomeComponent,
     AboutUsComponent,
     ContactUsComponent,
-    ServicesGlanceComponent,
-    AboutUsGlanceComponent,
     MembersComponent,
+    InstaSliderComponent,
+    AboutUsCardsComponent,
   ],
   imports: [
     BrowserModule,
