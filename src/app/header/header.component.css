@@ -1,0 +1,7 @@
+.navbar-brand img{
+    height: 140px;
+    width: 140px;
+}
+.navbar{
+    background: linear-gradient(180deg, #FCAE0E 0%, #F94A0F 100%);
+}

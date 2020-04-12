@@ -1,0 +1,138 @@
+
+/* Banner starts */
+.bg-1{
+  margin-top: 0px;
+  position: relative;
+  background-position: top;
+  background-image: url(../../../assets/images/services-banner.png); 
+  background-position:top,center;
+  height: 800px;
+  display: block;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
+  background-repeat: no-repeat;
+}
+.bg-1 h2,h4{
+  
+  color: white;
+ 
+}
+
+.header-text{
+  color: white;
+  left: -0px;
+  position: absolute;
+  top: 20px;
+  
+}
+
+
+table, th, td{
+  padding: 50px;
+  table-layout: fixed;
+  width: 100%;
+
+}
+.box{
+  position: static;
+  max-width: 400px;
+  padding: 15px;
+  background: rgba(244, 243, 250, 0.966);
+  width: 350px;
+  border-radius:10px;
+
+}
+.back1 {
+  padding: 0 100px;
+  height: 250vh;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  height: fit-content;
+  
+}
+.back2 {
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  height: 9vw;
+  width:7cm;
+}
+
+.box:hover{
+  background-color: lightblue;
+}
+
+.box1:hover{
+  background-color: lightblue;
+}
+
+.box2:hover{
+  background-color: lightblue;
+}
+.box3:hover{
+  background-color: lightblue;
+}
+
+.box4:hover{
+  background-color: lightblue;
+}
+
+.box1{
+  position: relative;
+  max-width: 400px;
+  padding: 15px;
+  background: rgba(244, 243, 250, 0.966);
+  width: 350px;
+  margin: auto;
+  border-radius:10px;
+}
+.box2{
+  position: relative;
+  max-width: 400px;
+  padding: 15px;
+  background: rgba(244, 243, 250, 0.966);
+  width: 350px;
+  margin: auto;
+  border-radius:10px;
+
+}
+.box3{
+  position: relative;
+  max-width: 400px;
+  padding: 15px;
+  background: rgba(244, 243, 250, 0.966);
+  width: 350px;
+  margin: auto;
+  border-radius:10px;
+
+}
+
+.box4{
+  position: relative;
+  max-width: 400px;
+  padding: 15px;
+  background: rgba(244, 243, 250, 0.966);
+  width: 350px;
+  margin: auto;
+  border-radius:10px;
+
+}
+
+h2{
+  text-align: center;
+  padding: 0;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #044463;
+}
+
+.tech-banner{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 150px;
+}

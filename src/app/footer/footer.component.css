@@ -1,0 +1,122 @@
+.footer{
+    
+    color: #d3d3d3;
+    width:100%;
+    margin:0px;
+    padding-bottom: 0;
+    
+}
+
+
+
+
+.footer-content h1,
+.footer-content h2 {
+    
+    color: #4c8bf5 ;
+    font-weight: bolder;
+
+}
+.footer-company-name{
+    margin-top: 30px;
+
+}
+.about h1 span{
+    color : #ff3333;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+    
+}
+
+
+
+ .socials a {
+    border : 1px solid white;
+    width: 45px;
+    color: white;
+    height: 41px;
+    padding-top: 5px;
+    margin-top: 30px;
+    /* margin-right: 5px;  */
+    text-align: center;
+    display: inline-block;
+    font-size: 1.3em;
+    border-radius: 5px;
+    transition: all .3s;
+}
+
+a{ 
+    text-align: left;
+    display: block;
+    margin-bottom:5px ;
+    font-size: 1.2em;
+    color: white;
+    transition: all .3s;
+    margin-left: 20px;
+}
+
+
+.btn{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.footer-content .links ul a :hover{
+
+    color: #ff3333;
+    transition: all .3s;
+    
+}
+a:hover{
+
+    color: #ff3333;
+    transition: all .3s;
+    
+}
+.socials a:hover{
+    border: 1px solid red;
+    color: #ff3333;
+    transition: all .3s;
+}
+.contact span{
+    display: block;
+}
+
+.footer-distributed{
+   
+    width: 100%;
+    padding: 50px 50px 60px 50px;
+    margin-top: 80px;
+    
+}
+/* FOR BACKGROUND */
+.bg-1{
+   
+    background-image: url(../../assets/images/banner-footer-final.png); 
+  
+    background-repeat: no-repeat;
+    padding-top: 300px;
+   
+    margin-bottom: 0px;
+    background-position: bottom; 
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+}
+
+.bg-small{
+
+    background-image: url(../../assets/images/banner-for-mobile.png); 
+  
+    background-repeat: no-repeat;
+  
+   
+    margin-bottom: 0px;
+    background-position: bottom; 
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 230px 0 0;
+}
