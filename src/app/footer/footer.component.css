@@ -7,19 +7,11 @@
     
 }
 
-
-
-
-.footer-content h1,
-.footer-content h2 {
+.footer-logo
+{   
     
-    color: #4c8bf5 ;
-    font-weight: bolder;
-
-}
-.footer-company-name{
-    margin-top: 30px;
-
+    height: 200px;
+    width: 200px;
 }
 .about h1 span{
     color : #ff3333;
@@ -31,9 +23,9 @@
 
 
  .socials a {
-    border : 1px solid white;
+    border : 1px solid black;
     width: 45px;
-    color: white;
+    color: black;
     height: 41px;
     padding-top: 5px;
     margin-top: 30px;
@@ -56,27 +48,23 @@ a{
 }
 
 
-.btn{
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-}
+
 
 .footer-content .links ul a :hover{
 
-    color: #ff3333;
+    color: white;
     transition: all .3s;
     
 }
 a:hover{
 
-    color: #ff3333;
+    color: white;
     transition: all .3s;
     
 }
 .socials a:hover{
-    border: 1px solid red;
-    color: #ff3333;
+    border: 1px solid white;
+    color:white;
     transition: all .3s;
 }
 .contact span{
@@ -93,7 +81,7 @@ a:hover{
 /* FOR BACKGROUND */
 .bg-1{
    
-    background-image: url(../../assets/images/banner-footer-final.png); 
+    background-image: url(../../assets/footer/footer-bg.png); 
   
     background-repeat: no-repeat;
     padding-top: 300px;
@@ -119,4 +107,7 @@ a:hover{
     margin-right: auto;
     position: relative;
     padding: 230px 0 0;
+}
+.footer-company-name{
+color: black;
 }

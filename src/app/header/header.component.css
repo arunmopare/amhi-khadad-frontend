@@ -5,3 +5,7 @@
 .navbar{
     background: linear-gradient(180deg, #FCAE0E 0%, #F94A0F 100%);
 }
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+}
