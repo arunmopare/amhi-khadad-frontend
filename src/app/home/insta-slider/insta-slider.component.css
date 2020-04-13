@@ -1,6 +1,10 @@
-
+.instagram-media{
+  margin-top: 20px;
+  padding-top: 60px;
+}
   .insta-post{
-    
+    margin-top:20px ;
+    padding-top:20px ;
     margin: auto;
   }
   .carousel-control-next-icon {
@@ -11,6 +15,7 @@
 }
 
 .slider-holder{
-    padding: 50px;
+    padding-top:50px ;
+    padding-bottom:50px ;
     background: linear-gradient(180deg, #F94A0F 0%, #FCFD26 100%);
 }

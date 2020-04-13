@@ -11,7 +11,7 @@ body
 .container
 {
 	position: relative;
-	width: 1200px;
+	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -129,5 +129,10 @@ body
 	transform: translate(-50%, -50%);
 }
 .title{
+	
+	padding-bottom:50px ;
+	padding-top:50px ;
+	background: linear-gradient(180deg, #F94A0F 0%, #FCFD26 100%);
 	text-align: center;
+	width: 100%;
 }
