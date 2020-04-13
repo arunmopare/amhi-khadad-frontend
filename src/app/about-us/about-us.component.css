@@ -1,0 +1,28 @@
+.food-image{
+    border-radius: 50px;
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text-area{
+    
+    width: 350px;
+    border: solid;
+    padding: 40px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #F94A0F 0%, #FCFD26 100%);
+    margin: auto;
+  padding-right: 50px;
+}
+
+.text-area-2{
+    border: solid;
+    width: 350px;
+   padding: 50px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #F94A0F 0%, #FCFD26 100%);
+    margin: auto;
+}

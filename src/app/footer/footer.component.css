@@ -75,7 +75,7 @@ a:hover{
    
     width: 100%;
     padding: 50px 50px 60px 50px;
-    margin-top: 80px;
+  
     
 }
 /* FOR BACKGROUND */
@@ -84,7 +84,7 @@ a:hover{
     background-image: url(../../assets/footer/footer-bg.png); 
   
     background-repeat: no-repeat;
-    padding-top: 300px;
+    padding-top: 100px;
    
     margin-bottom: 0px;
     background-position: bottom; 
